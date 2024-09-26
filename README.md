@@ -4,14 +4,14 @@
 
 </p>
 
-⚖️ **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔**
+:triangular_flag_on_post: **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔**
 
 ![Shell](https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell)
 ![Golang](https://img.shields.io/badge/Golang-%2345b8d8.svg?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
-⚙️ **𝑫𝒆𝒗𝑶𝒑𝒔 𝒕𝒐𝒐𝒍𝒔**
+:alembic: **𝑫𝒆𝒗𝑶𝒑𝒔 𝒕𝒐𝒐𝒍𝒔**
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?logo=kubernetes&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -26,7 +26,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab%20-blue?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 
-💻 **𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝒔𝒚𝒔𝒕𝒆𝒎𝒔**
+:white_check_mark: **𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝒔𝒚𝒔𝒕𝒆𝒎𝒔**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-1E2533?logo=debian&logoColor=da2f20)
@@ -54,7 +54,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-07BAF2?logo=PyCharm&logoColor=ffffff)
 
 
-🛠️ **𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒕𝒐𝒐𝒍𝒔**
+:sparkles: **𝑪𝒐𝒏𝒕𝒆𝒏𝒕 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏 𝒕𝒐𝒐𝒍𝒔**
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
@@ -64,7 +64,7 @@
 ![Obsidian](https://img.shields.io/badge/obsidian-2A2A2A?logo=obsidian&logoColor=7C3AED)
 
 
-🛠️ **𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒓𝒆𝒕𝒓𝒊𝒆𝒗𝒂𝒍 𝒕𝒐𝒐𝒍𝒔**
+:green_heart: **𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒓𝒆𝒕𝒓𝒊𝒆𝒗𝒂𝒍 𝒕𝒐𝒐𝒍𝒔**
 
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic)
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?logo=openai&logoColor=white&style=plastic)
