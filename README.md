@@ -4,14 +4,14 @@
 
 </p>
 
-🛠️ **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔**
+⚖️ **𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔**
 
 ![Shell](https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell)
 ![Golang](https://img.shields.io/badge/Golang-%2345b8d8.svg?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
-🛠️ **𝑫𝒆𝒗𝑶𝒑𝒔 𝒕𝒐𝒐𝒍𝒔**
+⚙️ **𝑫𝒆𝒗𝑶𝒑𝒔 𝒕𝒐𝒐𝒍𝒔**
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326ce5?logo=kubernetes&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -26,7 +26,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab%20-blue?logo=gitlab)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 
-🛠️ **𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝒔𝒚𝒔𝒕𝒆𝒎𝒔**
+💻 **𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝒔𝒚𝒔𝒕𝒆𝒎𝒔**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-1E2533?logo=debian&logoColor=da2f20)
@@ -36,7 +36,7 @@
 ![macOS](https://img.shields.io/badge/MacOS-333?logo=apple&logoColor=white)
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-333?logo=apple&logoColor=black)
 
-🛠️ **𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒕𝒐𝒐𝒍𝒔**
+:package: **𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒕𝒐𝒐𝒍𝒔**
 
 ![Adobe](https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?logo=adobephotoshop&logoColor=001E36)
