@@ -49,8 +49,6 @@
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/podmanio/podmanio-icon.svg" alt="podmanio" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/ingress/ingress-icon.svg" alt="ingress" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helmsh" width="40" height="40" />
