@@ -78,7 +78,6 @@
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="65" />
   </div>
 
   <h4 align="center">I ❤️ FOSS</h4>
