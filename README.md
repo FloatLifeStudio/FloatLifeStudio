@@ -34,6 +34,9 @@
     </picture>
   </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <div>
     <picture>
