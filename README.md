@@ -35,6 +35,19 @@
   </div>
 
 <!--START_SECTION:waka-->
+
+```rust,golang
+From: 24 January 2025 - To: 20 February 2025
+
+Total Time: 8 hrs 55 mins
+
+Markdown                   3 hrs 1 mins    ████████▒░░░░░░░░░░░░░░░░   33.88 %
+HTML                       2 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.93 %
+YAML                       1 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Go                         0 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Bash                       0 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+```
+
 <!--END_SECTION:waka-->
 
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
