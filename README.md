@@ -19,7 +19,7 @@
   </div>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <div>
+  <div style="display: flex; align-items: flex-start;">
     <picture style="vertical-align: top;">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=floatlifestudio&show_icons=true&theme=buefy&bg_color=FF000000&hide_border=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=floatlifestudio&show_icons=true&theme=nightowl&bg_color=FF000000&hide_border=true">
