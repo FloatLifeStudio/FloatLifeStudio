@@ -20,12 +20,12 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <div>
-    <picture>
+    <picture style="vertical-align: top;">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=floatlifestudio&show_icons=true&theme=buefy&bg_color=FF000000&hide_border=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=floatlifestudio&show_icons=true&theme=nightowl&bg_color=FF000000&hide_border=true">
       <img src="https://github-readme-stats.vercel.app/api?username=floatlifestudio&show_icons=true&theme=buefy&bg_color=FF000000&hide_border=true">
     </picture>
-    <picture>
+    <picture style="vertical-align: top;">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=floatlifestudio&layout=compact&theme=buefy&bg_color=FF000000&hide_border=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=floatlifestudio&layout=compact&theme=nightowl&bg_color=FF000000&hide_border=true">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floatlifestudio&layout=compact&text_color=000000&bg_color=00000000&hide_border=true">
