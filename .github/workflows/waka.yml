@@ -10,20 +10,19 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
-          CODE_LANG: rust,golang
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          COMMIT_MESSAGE: "🚀 style(README.md): Updated waka-readme graph with new metrics"
+          COMMIT_MESSAGE: "🚀 style(README.md): Updated wakatime graph"
           TARGET_BRANCH: master
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
