@@ -33,7 +33,20 @@
   </div>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 24 January 2025 - To: 21 February 2025
+
+Total Time: 9 hrs 42 mins
+
+Markdown                   3 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 %
+HTML                       2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.02 %
+YAML                       1 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Go                         0 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+unknown                    0 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+```
+
+<!--END_SECTION:waka-->
 
   <!-- Waka Time -->
   <div>
