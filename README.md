@@ -42,7 +42,20 @@
   </div>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 24 January 2025 - To: 21 February 2025
+
+Total Time: 9 hrs 44 mins
+
+Markdown                   3 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.16 %
+HTML                       2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+YAML                       1 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Go                         0 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+unknown                    0 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+```
+
+<!--END_SECTION:waka-->
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <div>
