@@ -32,9 +32,6 @@
     </picture>
   </div>
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-
   <!-- Waka Time -->
   <div>
     <picture>
@@ -43,6 +40,9 @@
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FloatLifeStudio&api_domain=wakapi.dev&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact&theme=buefy&bg_color=FF000000&hide_border=true">
     </picture>
   </div>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <div>
