@@ -48,8 +48,8 @@ From: 24 January 2025 - To: 24 February 2025
 
 Total Time: 10 hrs 31 mins
 
-Markdown                   3 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.96 %
-HTML                       2 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
+Markdown                   3 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
+HTML                       2 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
 YAML                       1 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 unknown                    0 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 Go                         0 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
