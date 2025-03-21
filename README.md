@@ -46,13 +46,13 @@
 ```txt
 From: 24 January 2025 - To: 20 March 2025
 
-Total Time: 19 hrs 18 mins
+Total Time: 20 hrs 53 mins
 
-Markdown                   11 hrs 54 mins  ███████████████▒░░░░░░░░░   61.70 %
-HTML                       3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-YAML                       1 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-unknown                    0 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Go                         0 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Markdown                   13 hrs 30 mins  ████████████████░░░░░░░░░   64.62 %
+HTML                       3 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+YAML                       1 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+unknown                    0 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Go                         0 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
