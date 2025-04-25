@@ -35,9 +35,9 @@
   <!-- Waka Time -->
   <div>
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FloatLifeStudio&api_domain=wakapi.dev&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact&theme=buefy&bg_color=FF000000&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FloatLifeStudio&api_domain=wakapi.dev&custom_title=WakaTime&layout=compact&theme=buefy&bg_color=FF000000&hide_border=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FloatLifeStudio&api_domain=wakapi.dev&custom_title=WakaTime&layout=compact&theme=nightowl&bg_color=FF000000&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FloatLifeStudio&api_domain=wakapi.dev&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact&theme=buefy&bg_color=FF000000&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FloatLifeStudio&api_domain=wakapi.dev&custom_title=WakaTime&layout=compact&theme=buefy&bg_color=FF000000&hide_border=true">
     </picture>
   </div>
 
