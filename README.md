@@ -44,11 +44,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 09 August 2025
+From: 24 January 2025 - To: 11 August 2025
 
-Total Time: 184 hrs 42 mins
+Total Time: 184 hrs 41 mins
 
-Markdown                   144 hrs 48 mins ███████████████████▓░░░░░   78.40 %
+Markdown                   144 hrs 47 mins ███████████████████▓░░░░░   78.39 %
 Bash                       18 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
 YAML                       12 hrs 6 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
 Html                       4 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
