@@ -44,15 +44,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2025 - To: 15 September 2025
+From: 24 January 2025 - To: 16 September 2025
 
-Total Time: 228 hrs 24 mins
+Total Time: 234 hrs 6 mins
 
-Markdown                   184 hrs 40 mins ████████████████████▒░░░░   80.85 %
-Bash                       20 hrs 45 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-YAML                       13 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Html                       4 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Unknown                    3 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown                   190 hrs 22 mins ████████████████████▒░░░░   81.32 %
+Bash                       20 hrs 45 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+YAML                       13 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Html                       4 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Unknown                    3 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
