@@ -46,11 +46,11 @@
 ```txt
 From: 24 January 2025 - To: 26 September 2025
 
-Total Time: 246 hrs 54 mins
+Total Time: 246 hrs 49 mins
 
-Markdown                   202 hrs 58 mins ████████████████████▓░░░░   82.21 %
+Markdown                   202 hrs 53 mins ████████████████████▓░░░░   82.20 %
 Bash                       20 hrs 56 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-YAML                       13 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+YAML                       13 hrs 3 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
 Html                       4 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 Unknown                    3 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
