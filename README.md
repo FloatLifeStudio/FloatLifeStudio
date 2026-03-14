@@ -46,9 +46,9 @@
 ```txt
 From: 09 March 2025 - To: 13 March 2026
 
-Total Time: 351 hrs 18 mins
+Total Time: 351 hrs 37 mins
 
-Markdown                   313 hrs 43 mins       ██████████████████████▒░░   89.31 %
+Markdown                   314 hrs 3 mins        ██████████████████████▒░░   89.32 %
 Bash                       20 hrs 27 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 YAML                       12 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 Unknown                    2 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
