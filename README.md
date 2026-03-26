@@ -46,12 +46,12 @@
 ```txt
 From: 23 March 2025 - To: 25 March 2026
 
-Total Time: 355 hrs 25 mins
+Total Time: 358 hrs 30 mins
 
-Markdown                   317 hrs 54 mins       ██████████████████████▒░░   89.45 %
-Bash                       20 hrs 26 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-YAML                       12 hrs 1 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Unknown                    2 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Markdown                   320 hrs 59 mins       ██████████████████████▒░░   89.54 %
+Bash                       20 hrs 26 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+YAML                       12 hrs 1 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Unknown                    2 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Html                       1 hrs 37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
