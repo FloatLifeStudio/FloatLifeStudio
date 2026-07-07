@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋, I'm هرگز</h1>
-  <h3>  I'm an elegant DevOps Architect from China, currently living in Persia.</h3>
+  <h3>  I come from China and currently live in Persia. I like making complex things feel quiet, simple, and just right. </h3>
 
   <!-- https://github.com/antonkomarev/github-profile-views-counter -->
   <div>
