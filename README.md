@@ -46,9 +46,9 @@
 ```txt
 From: 19 July 2025 - To: 20 July 2026
 
-Total Time: 395 hrs 13 mins
+Total Time: 396 hrs 49 mins
 
-Markdown   385 hrs 37 mins       ████████████████████████▒   97.57 %
+Markdown   387 hrs 13 mins       ████████████████████████▒   97.58 %
 Bash       6 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 YAML       1 hrs 21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Html       1 hrs 19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
